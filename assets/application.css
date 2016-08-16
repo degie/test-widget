@@ -1,0 +1,5 @@
+#loading-wrapper:after {
+    content: "application.css loaded";
+    display: block;
+
+}
